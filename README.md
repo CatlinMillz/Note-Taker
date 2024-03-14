@@ -20,4 +20,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 [https://github.com/CatlinMillz/Note-Taker](https://github.com/CatlinMillz/Note-Taker)
 
-![demo](demo11.png)
+![demo](demo11-1.png)(demo11-2.png)
